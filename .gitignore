@@ -1,0 +1,8 @@
+*.env
+*.dropbox
+/.vs/
+/.vscode/
+/-unused/
+/public/-unused/
+/public/images/icons/-unused/
+/node_modules/

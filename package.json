@@ -1,0 +1,22 @@
+{
+	"name": "Murder in HK Online",
+	"version": "1.2.0",
+	"description": "A web app game based on the boardgame MIHK",
+	"author": "Airofoil",
+	"private": true,
+	"scripts": {
+		"start": "node ./bin/www"
+	},
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"debug": "^4.1.1",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"express-session": "^1.17.1",
+		"jquery": "^3.5.1",
+		"mongodb": "^3.5.7",
+		"morgan": "^1.10.0",
+		"pug": "^2.0.4",
+		"socket.io": "^2.3.0"
+	}
+}
